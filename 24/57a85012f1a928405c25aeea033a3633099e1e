@@ -1,0 +1,19 @@
+docs/07_Multilingual_Communication.md
+  s_c0d79d65823907::t_19402e500a2c50 1-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2457a85012f1a928405c25aeea033a3633099e1e",
+  "prompts": {},
+  "sessions": {
+    "s_c0d79d65823907": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0d0ed-ec66-7bc0-96dd-2771c7eabe12",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Genesis Connect <lewiskeane@gmail.com>"
+    }
+  }
+}
