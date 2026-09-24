@@ -1,0 +1,18 @@
+{
+  "default": "hu",
+  "supported": ["hu", "pl", "uk", "en", "fi", "de"],
+  "displayNames": {
+    "hu": "Magyar",
+    "pl": "Polski",
+    "uk": "Українська",
+    "en": "English",
+    "fi": "Suomi",
+    "de": "Deutsch"
+  },
+  "selection": {
+    "userCanOverride": true,
+    "sessionCanOverride": true,
+    "silentSwitch": false,
+    "preserveOriginal": true
+  }
+}
