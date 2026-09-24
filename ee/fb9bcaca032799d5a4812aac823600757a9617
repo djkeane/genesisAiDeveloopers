@@ -1,0 +1,19 @@
+docs/06_Decentralized_Review_Integration.md
+  s_c0d79d65823907::t_657b099b960049 1-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "eefb9bcaca032799d5a4812aac823600757a9617",
+  "prompts": {},
+  "sessions": {
+    "s_c0d79d65823907": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0d0ed-ec66-7bc0-96dd-2771c7eabe12",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Genesis Connect <lewiskeane@gmail.com>"
+    }
+  }
+}
