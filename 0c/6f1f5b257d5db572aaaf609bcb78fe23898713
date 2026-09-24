@@ -1,0 +1,22 @@
+docs/07_Multilingual_Communication.md
+  s_c0d79d65823907::t_8dcb7a5fa6c430 3-13,30-33
+  s_c0d79d65823907::t_1b04cc160219d4 34
+config/supported-languages.json
+  s_c0d79d65823907::t_8dcb7a5fa6c430 1-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0c6f1f5b257d5db572aaaf609bcb78fe23898713",
+  "prompts": {},
+  "sessions": {
+    "s_c0d79d65823907": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0d0ed-ec66-7bc0-96dd-2771c7eabe12",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Genesis Connect <lewiskeane@gmail.com>"
+    }
+  }
+}
